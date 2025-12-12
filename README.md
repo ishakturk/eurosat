@@ -184,7 +184,7 @@ ResNet ailesinden ResNet-18'i seçmemin nedenleri:
 
 | Parametre | Değer |
 |-----------|-------|
-| **Batch Size** | 32 |
+| **Batch Size** | 64 |
 | **Optimizer** | Adam |
 | **Loss Function** | CrossEntropyLoss |
 | **Learning Rate (CNN)** | 0.001 |
