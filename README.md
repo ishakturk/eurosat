@@ -328,7 +328,7 @@ EuroSAT/
 
 ```bash
 # Repoyu klonlayın
-git clone https://github.com/[kullaniciadi]/EuroSAT.git
+git clone https://github.com/ishakturk/EuroSAT.git
 cd EuroSAT
 
 # Sanal ortam oluşturun
@@ -375,9 +375,12 @@ jupyter>=1.0.0
 ### Veri Seti
 
 - **EuroSAT:** [https://github.com/phelber/EuroSAT](https://github.com/phelber/EuroSAT)
-- **Sentinel-2:** [https://sentinel.esa.int/](https://sentinel.esa.int/)
 
 ---
+
+### Test Kaynağı
+
+- **Sentinel Uydu Haritası:** [https://s2maps.eu/#](https://s2maps.eu/#)
 
 ## 📊 Özet
 
